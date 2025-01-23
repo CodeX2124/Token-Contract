@@ -1,0 +1,10 @@
+/home/pc/Documents/token_contract/target/debug/deps/libspl_token_group_interface-8eef195b30a6bf11.so: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/state.rs
+
+/home/pc/Documents/token_contract/target/debug/deps/libspl_token_group_interface-8eef195b30a6bf11.rlib: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/state.rs
+
+/home/pc/Documents/token_contract/target/debug/deps/spl_token_group_interface-8eef195b30a6bf11.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/state.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/error.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/instruction.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spl-token-group-interface-0.2.5/src/state.rs:

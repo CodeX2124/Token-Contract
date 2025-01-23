@@ -1,0 +1,13 @@
+/home/pc/Documents/token_contract/target/debug/deps/libdigest-386008e8c50bb317.rmeta: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/dyn_digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/errors.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/fixed.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/variable.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/xof.rs
+
+/home/pc/Documents/token_contract/target/debug/deps/libdigest-386008e8c50bb317.rlib: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/dyn_digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/errors.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/fixed.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/variable.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/xof.rs
+
+/home/pc/Documents/token_contract/target/debug/deps/digest-386008e8c50bb317.d: /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/dyn_digest.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/errors.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/fixed.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/variable.rs /home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/xof.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/digest.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/dyn_digest.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/errors.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/fixed.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/variable.rs:
+/home/pc/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.9.0/src/xof.rs:

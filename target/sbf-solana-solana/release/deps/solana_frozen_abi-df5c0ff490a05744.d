@@ -1,0 +1,10 @@
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-df5c0ff490a05744.rmeta: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/libsolana_frozen_abi-df5c0ff490a05744.rlib: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/solana_frozen_abi-df5c0ff490a05744.d: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_digester.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/abi_example.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-frozen-abi-1.18.26/src/hash.rs:

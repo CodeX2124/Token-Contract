@@ -1,0 +1,12 @@
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/spl_token-17cc6543fcf4ba74.so: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/native_mint.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/processor.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/state.rs
+
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/libspl_token-17cc6543fcf4ba74.rlib: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/native_mint.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/processor.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/state.rs
+
+/home/pc/Documents/token_contract/target/sbf-solana-solana/release/deps/spl_token-17cc6543fcf4ba74.d: /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/lib.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/error.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/instruction.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/native_mint.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/processor.rs /home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/state.rs
+
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/lib.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/error.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/instruction.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/native_mint.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/processor.rs:
+/home/pc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.3/src/state.rs:

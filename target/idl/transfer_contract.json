@@ -1,0 +1,66 @@
+{
+  "address": "4dgAF5jMWvTsYjsN5BudREmFd3hysCqGEY56X5uamBKT",
+  "metadata": {
+    "name": "transfer_contract",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "initialize",
+      "discriminator": [
+        175,
+        175,
+        109,
+        31,
+        13,
+        152,
+        155,
+        237
+      ],
+      "accounts": [],
+      "args": []
+    },
+    {
+      "name": "send_token",
+      "discriminator": [
+        157,
+        183,
+        177,
+        53,
+        196,
+        251,
+        54,
+        185
+      ],
+      "accounts": [
+        {
+          "name": "from",
+          "writable": true
+        },
+        {
+          "name": "recipient"
+        },
+        {
+          "name": "authority",
+          "signer": true
+        },
+        {
+          "name": "mint",
+          "address": "6khiMdkuBCVWpP4niKjK2Js5m7mNUwCGeQvQVkb32hDM"
+        },
+        {
+          "name": "token_program",
+          "address": "TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb"
+        }
+      ],
+      "args": [
+        {
+          "name": "amount",
+          "type": "u64"
+        }
+      ]
+    }
+  ]
+}
